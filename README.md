@@ -2,7 +2,7 @@
 
 This is a supporting repo for etherworld.co article
 
-follow the steps:-
+follow the steps:--
 
 you will a local geth instance ro run this demo..
 
